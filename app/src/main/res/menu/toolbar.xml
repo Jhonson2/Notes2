@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/edit"
+        android:title="编辑"
+        android:orderInCategory="100"
+        android:icon="@mipmap/ic_launcher"
+        android:showAsAction="never"/>
+
+    <item android:id="@+id/mag_kind"
+        android:title="管理类别"
+        android:orderInCategory="100"
+        android:icon="@mipmap/ic_launcher"
+        android:showAsAction="never"/>
+
+</menu>
